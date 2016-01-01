@@ -1,0 +1,23 @@
+{
+  "name": "leadsid-js",
+  "version": "1.0.0",
+  "description": "LeadsID Adapter",
+  "main": "dist/leadsid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leadstec/leadsid-js-bower"
+  },
+  "author": "Leadstec",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/leadstec/leadsid-js-bower",
+  "keywords": [
+    "leadsid",
+    "sso",
+    "oauth",
+    "oauth2",
+    "authentication"
+  ]
+}

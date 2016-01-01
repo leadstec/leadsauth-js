@@ -1,0 +1,17 @@
+{
+  "name": "leadsid",
+  "version": "1.0.0",
+  "main": "dist/leadsid.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "description": "LeadsID js adapter",
+  "keywords": [
+    "leadsid",
+    "sso",
+    "oauth",
+    "oauth2",
+    "authentication"
+  ],
+  "license": "Apache-2.0"
+}
