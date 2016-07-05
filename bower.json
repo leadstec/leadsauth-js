@@ -1,7 +1,7 @@
 {
   "name": "leadsid",
   "version": "1.0.0",
-  "main": "dist/leadsid.js",
+  "main": "dist/leadsid.min.js",
   "ignore": [
     "**/.*"
   ],
@@ -11,6 +11,7 @@
     "sso",
     "oauth",
     "oauth2",
+    "saml",
     "authentication"
   ],
   "license": "Apache-2.0"
