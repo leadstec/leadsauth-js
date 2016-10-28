@@ -1,8 +1,8 @@
-leadsid-js-bower
+leadsauth-js
 ======================
 
-A [Bower](http://bower.io) project for the [LeadsID](http://www.leadstec.com/leadsid/).
+Javascript for [LeadsAuth](http://www.leadstec.com/leadsid/).
 
 # Usage
 
-        $ bower install --save leadsid
+        $ npm install --save leadsauth-js
