@@ -1,7 +1,7 @@
 leadsauth-js
 ======================
 
-Javascript for [LeadsAuth](http://www.leadstec.com/leadsid/).
+Javascript for [LeadsAuth](http://www.leadstec.com/leadsauth/).
 
 # Usage
 
